@@ -1,13 +1,6 @@
-Assignment1.ipynb
-CloudComputerResources.png
-COMP541-A-2.pdf
-COMP541-B-2.pdf
-diabetes.csv
-Group Assignment 1.pdf
-WA_Fn-UseC_-Telco-Customer-Churn.xls
-Week1-B.pdf
-Week4Discussion.ipynb
-Assignment5.ipynb
 deployedmodel/__pycache__/request_model.cpython-313.pyc
 deployedmodel/__pycache__/main.cpython-313.pyc
 deployedmodel/__pycache__/__init__.cpython-313.pyc
+/archive
+/archive/*
+deployedmodel/__pycache__/response_model.cpython-313.pyc
