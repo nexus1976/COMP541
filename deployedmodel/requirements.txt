@@ -1,0 +1,12 @@
+asyncio
+asyncpg
+fastapi
+fastapi-oidc
+fastapi_utils
+fastapi-versioning
+httpx
+joblib
+pydantic
+pyjwt
+python-multipart
+uvicorn
