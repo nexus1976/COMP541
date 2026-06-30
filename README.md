@@ -30,3 +30,15 @@ curl --location 'http://localhost:8000/predict' \
 ```
 
 The debugging project runs the same, but on port `8003`.
+
+We've also deployed the model to a microservice running on Azure.
+```
+curl --location 'http://comp541-churn-api-aci.eastus.azurecontainer.io:8000/predict' \
+--header 'Content-Type: application/json' \
+--data '{
+  "Contract": "One year",
+  "PaymentMethod": "Credit card (automatic)",
+  "OnlineSecurity": "No",
+  "TechSupport": "No"
+}'
+```
